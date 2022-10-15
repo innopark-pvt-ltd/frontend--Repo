@@ -1,7 +1,5 @@
 hello
+devlopment
 bye
-
-
-
-
-
+septare
+main
