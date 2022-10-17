@@ -1,8 +1,4 @@
 hello
 HEAD
 jk
-devlopment
-bye
-septare
-main
-99d6e6624a1ee4a0366a69642768e2b458ebba49
+
